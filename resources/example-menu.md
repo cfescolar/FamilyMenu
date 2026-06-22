@@ -1,7 +1,7 @@
 # Menú 
 -------
 
-# Semana 8/06/2025
+# Semana 8/06/2026
 
 | Día de la semana | Comida | Cena |
 | ----------- | ----------- | ----------- |
@@ -13,7 +13,7 @@
 | Sábado | Judias blancas a la hortelana  | Guisantes con jamón |
 | Domingo | Paella | Picoteo y croquetas |
 
-# Semana 15/06/2025
+# Semana 15/06/2026
 
 | Día de la semana | Comida | Cena |
 | ----------- | ----------- | ----------- |
@@ -25,7 +25,7 @@
 | Sábado | Carne con patatas, Ensalada | Humus con zanahoria, Totopos con guacamole |
 | Domingo | Hervido de judias con patatas | Churrito de verduras |
 
-# Semana 22/06/2025
+# Semana 22/06/2026
 
 | Día de la semana | Comida | Cena |
 | ----------- | ----------- | ----------- |

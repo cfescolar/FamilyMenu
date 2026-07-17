@@ -14,5 +14,6 @@ Requisitos:
   * Las cenas deben requerir menos de 15 minutos de preparación.
 * Los fines de semana (sábado y domingo) no existe restricción de tiempo de preparación.
 * Las cenas deben ser ligeras y sencillas, siguiendo el patrón habitual de los menús históricos.
+* Los viernes se suele pedir pizza para cenar, incluye siempre pizza en las cenas.
 * Mantén un estilo de cocina casera, práctica y realista.
 * No añadas explicaciones ni comentarios. Devuelve únicamente la tabla final.
